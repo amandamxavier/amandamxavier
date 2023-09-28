@@ -44,6 +44,6 @@
 
 <p align="center">
     <a href="https://discord.com/invite/TgGAXqH6Zf" target="_blank">
-        <img src="https://discord-invite.doceazedo.com/api/TgGAXqH6Zf.png" />
+        <img src="https://discord-invite.doceazedo.com/TgGAXqH6Zf.svg" />
     </a>
 </p>
