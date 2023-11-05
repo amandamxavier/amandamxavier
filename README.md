@@ -5,6 +5,7 @@ I'm a 27 years self-taught, curiosity-driven, developer based in Brazil.
 - Check out my [website](https://www.amandamartins.dev) to learn more about me.
 - Explore my [DEV Community](https://dev.to/amandamxavier) and [Medium](https://medium.com/@amandamxavier) blogs where I share tips, insights and learnings.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/amandamxavier).
+- Download my [English](https://github.com/amandamxavier/resume/raw/main/files/Resume.pdf) or [Portuguese](https://github.com/amandamxavier/resume/raw/main/files/Currículo.pdf) resume.
 
 ## 🔭 Current Endeavors 
 
