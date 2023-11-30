@@ -3,9 +3,10 @@
 I'm a 27 years old, self-taught, curiosity-driven, fullstack developer currently based in Brazil.
 
 - Check out my [website](https://www.amandamartins.dev) to learn more about me.
-- Explore my [DEV Community](https://dev.to/amandamxavier) and [Medium](https://medium.com/@amandamxavier) blogs where I share tips, insights and learnings.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/amandamxavier).
 - Download my [English](https://github.com/amandamxavier/resume/raw/main/files/Resume.pdf) or [Portuguese](https://github.com/amandamxavier/resume/raw/main/files/Currículo.pdf) resume.
+- Take a look at games I've worked on my [itch.io](https://pixelmandy.itch.io/).
+- Explore my [DEV Community](https://dev.to/amandamxavier) and [Medium](https://medium.com/@amandamxavier) blogs.
 
 ### ✍🏻 What I've been writing:
 
@@ -20,6 +21,13 @@ I'm a 27 years old, self-taught, curiosity-driven, fullstack developer currently
 - [GitTogether São Paulo - Outubro (Hacktoberfest)](https://www.meetup.com/githubbrasil/events/296518185/) | GitHub Community São Paulo
 - [Os desafios para pessoas desenvolvedoras iniciantes - Episódio #40](https://podcasters.spotify.com/pod/show/feministech/episodes/Os-desafios-para-pessoas-desenvolverodas-iniciantes---Episdio-40-e28vtdi) | Feministech Podcast
 - [Quem é Mandys?](https://dev.to/feministech/quem-e-mandys-3ai9) | Interview by Lissa Ferreira for Feministech
+
+### ❤️ Communities I participate:
+
+- [Feministech](https://feministech.com.br/) is a community for feminist people who self-identify as women, non-binary, and transgender people.
+- [GitHub Community São Paulo](https://linktr.ee/ghcommunitysp) is an open-source community based in São Paulo, Brazil.
+- [Thasfin](https://linktr.ee/thasfin.community) is a community and safe place for everyone in tech.
+- [ConectaDevs](https://www.instagram.com/conectadevs/) is a community and safe place for everyone in tech who loves events.
 
 ### 📫 Contact
 
