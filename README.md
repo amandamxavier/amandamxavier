@@ -7,7 +7,7 @@ I'm a 27 years old, self-taught, curiosity-driven, fullstack developer currently
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/amandamxavier).
 - Download my [English](https://github.com/amandamxavier/resume/raw/main/files/Resume.pdf) or [Portuguese](https://github.com/amandamxavier/resume/raw/main/files/Currículo.pdf) resume.
 
-### ✍🏻 What I've been writing
+### ✍🏻 What I've been writing:
 
 - [Principais alternativas open-source e gratuitas para absolutamente tudo que vier a cabeça!](https://dev.to/acaverna/principais-alternativas-open-source-e-gratuitas-para-absolutamente-tudo-que-vier-a-cabeca-1h1g) | +1k 👀
 - [Primeiros passos com WSL](https://dev.to/feministech/primeiros-passos-com-wsl-fk1) | +3k 👀
